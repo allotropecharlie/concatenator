@@ -1,3 +1,5 @@
+#Copyleft 2017 Charlie Welsh, Allotrope Labs
+
 import os
 
 def main(args):
